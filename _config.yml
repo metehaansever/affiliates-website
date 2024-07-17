@@ -1,7 +1,8 @@
 title: "Affiliates"
 email: metehaansever@gmail.com
 timezone: UTC
-url: "www.temü.de"
+url: "https://www.temü.de"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
